@@ -12,7 +12,10 @@
 		      autopair
 		      yasnippet
 		      auto-complete
-		      fuzzy)
+		      fuzzy
+                      php-mode
+                      php-extras
+                      )
   "Packages to be installed at launch.")
 
 ;; Install if not yet installed
